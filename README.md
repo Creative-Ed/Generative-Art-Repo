@@ -1,6 +1,7 @@
 # Generative-Art-Repo
 my goal is redefine how viewers see art, the plan is to deploy art that says deeper things than meets the eye
 
+created using the slope adjusting Technology of https://tinkersynth.com/slopes 
 This collection of generative art is what I would call the “LIFE COLLECTION”
 In my eyes, they have a narrative of Different Life Experiences or tell stories of the life cycles, Ideal and realistic, of different races, Social Class and across all ages.
 In actual terms, there’s no segregation because every human life on earth encounters these phases even those who seem to have it all figured out, 

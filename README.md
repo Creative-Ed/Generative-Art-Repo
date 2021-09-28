@@ -51,4 +51,4 @@ The Horizontal Waves with a straight line all through is like the Perfection in 
 the perfect life with no challenges, no turbulence. It’s a happy existence until Death snatches it all away. Then it all stops 
 like it was never there, and there’s no continuation.
 
-Mail: edwardzems@gmail.com
+Mail: creativedom01@gmail.com
